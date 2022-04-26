@@ -1,5 +1,6 @@
 {
     "name": "ministore",
+    "description": "Migración de store desde reactjs a nextjs",
     "version": "0.1.0",
     "private": true,
     "scripts": {
@@ -9,6 +10,15 @@
         "lint": "next lint",
         "lint:fix": "eslint src/ --fix"
     },
+    "keywords": [
+        "react",
+        "javascript",
+        "html",
+        "sass",
+        "nextjs"
+    ],
+    "author": "Carlos Granados <cgranadosmontenegro@gmail.com>",
+    "license": "MIT",
     "dependencies": {
         "axios": "^0.26.1",
         "eslint-config-prettier": "^8.5.0",

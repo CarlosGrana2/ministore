@@ -1,3 +1,21 @@
+#  Migration project E-commerce en React a NextJs 🏪
+
+Ejemplo práctico de mini store pasando componentes de reactjs a nextJs.
+
+## Features
+
+- Agregar al carro de compras productos.
+- Eliminar productos del carro de compras.
+- Ir al Checkout de las orden de compra.
+- Sitio responsive.
+- Productos integrados de Api Ejemplo.
+## Tech 👨🏻‍💻
+
+- [Next JS] - Una biblioteca de JavaScript para construir interfaces de usuario.
+- [Vs code] - Editor de código.
+- [Vercel] - Ecosistema completo de herramientas y servicios modernos en un solo flujo de trabajo simple para crear sitios y aplicaciones de alto rendimiento.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
